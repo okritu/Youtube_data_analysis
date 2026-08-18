@@ -2,6 +2,10 @@
 
 This project conducts an end-to-end data analysis of YouTube video data, from data collection and cleaning to exploratory data analysis (EDA), SQL querying, and visualization using Power BI.
 
+## Dashboard Preview
+
+![YouTube Analytics Executive Dashboard](screenshots/dashboard.png)
+
 ## Project Structure
 
 The repository is organized as follows:
